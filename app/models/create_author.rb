@@ -1,0 +1,2 @@
+class CreateAuthor < ApplicationRecord
+end
